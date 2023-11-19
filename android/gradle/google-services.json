@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760019254541",
+    "project_id": "fir-7a2d2",
+    "storage_bucket": "fir-7a2d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760019254541:android:cd19b0c3acbc1879af0444",
+        "android_client_info": {
+          "package_name": "com.eshopraj.firebase_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAi7Jk1WoLipFtkNxv92UmCah6dGqYqiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
